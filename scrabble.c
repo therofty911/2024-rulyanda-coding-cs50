@@ -1,3 +1,5 @@
+// CS50 PROBLEM SET ARRAY
+
 #include <cs50.c>
 #include <stdio.h>
 #include <ctype.h>
